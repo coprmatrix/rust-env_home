@@ -1,0 +1,5 @@
+<services>
+  <service name="rust2rpm">
+    <name='pkgid'>env_home</name>
+  </service>
+</services>
